@@ -55,7 +55,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
             BackgroundImage = Properties.Resources.drif;
-            BackgroundImageLayout = ImageLayout.None;
+            BackgroundImageLayout = ImageLayout.Zoom;
             ClientSize = new Size(173, 272);
             ControlBox = false;
             Cursor = Cursors.Cross;
