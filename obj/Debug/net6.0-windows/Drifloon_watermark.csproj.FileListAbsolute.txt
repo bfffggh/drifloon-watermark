@@ -1,0 +1,17 @@
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\bin\Debug\net6.0-windows\Drifloon_watermark.exe
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\bin\Debug\net6.0-windows\Drifloon_watermark.deps.json
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\bin\Debug\net6.0-windows\Drifloon_watermark.runtimeconfig.json
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\bin\Debug\net6.0-windows\Drifloon_watermark.dll
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\bin\Debug\net6.0-windows\Drifloon_watermark.pdb
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.Drifloon.resources
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.AssemblyInfo.cs
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.dll
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\refint\Drifloon_watermark.dll
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.pdb
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.genruntimeconfig.cache
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\ref\Drifloon_watermark.dll
+C:\Users\marce\source\repos\Drifloon_watermark\Drifloon_watermark\obj\Debug\net6.0-windows\Drifloon_watermark.Properties.Resources.resources
